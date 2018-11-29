@@ -15,3 +15,5 @@ K/3 Wise 14.2.0 测试通过
 >--执行SQL  update t_user set FSID=@spid,PasswordHashValue=null where FUserID=@userid   
 >}  
 >*注意14.0以上时，需同时清空PasswordHashValue栏位，否则登陆不了。*
+
+BLOG: http://itjoy.net/362.html
