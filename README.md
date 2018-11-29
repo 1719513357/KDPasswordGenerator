@@ -1,6 +1,6 @@
 # KDPasswordGenerator 生成金蝶用户密码加密字串
 Kingdee K/3 wise Password Generator   
-可用于此方法在自己开发的MIS系统中重置K3账套密码。 
+可用于此方法在自己开发的MIS系统中重置K3账套密码  
 K/3 Wise 14.2.0 测试通过
 
 除了网上公开的密码字符对照表外，还有以下特殊规则： 
